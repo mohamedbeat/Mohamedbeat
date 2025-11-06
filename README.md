@@ -1,19 +1,18 @@
-## About Me
+## 👋 About Me
 
-I am a software engineer specializing in backend development. My primary focus is on designing scalable, maintainable, and secure architectures that support high-performance. I have experience working with both monolithic and microservices-based systems.
+I'm a Backend Software Engineer passionate about building scalable and resilient systems. I specialize in designing robust APIs, crafting efficient CLIs, and architecting systems that can handle growth. I'm always exploring the principles of system design and software architecture to write clean, maintainable code.
 
-### Technical Proficiencies
+### 🛠️ Tech Stack
 
-I primarily work with TypeScript and Go, and I’m comfortable with both SQL and NoSQL databases. I rely on tools like Git and Docker to build and manage reliable, containerized systems.
+**Languages:** Go, Node.js  
+**Databases:** SQL (PostgreSQL, MySQL), NoSQL (MongoDB, Redis)  
+**Tools & Platforms:** Git, Docker, Linux
 
-### Areas of Interest
- 
-- Systems Design & Optimization  
-- Software Engineering Best Practices
+### 🌱 Current Focus
 
-### Professional Objectives
+*   Deepening my expertise in **distributed systems** and **high-performance computing**.
+*   Continuously improving my knowledge of software engineering best practices and patterns.
 
-- Continuously learn and apply modern engineering patterns  
+### 📫 Let's Connect
 
-For more details about my work or to get in touch, please refer to [my portfolio](https://mohameddotgo.netlify.app/).
-
+For a deeper look at my projects and experience, visit [my portfolio](https://mohameddotgo.netlify.app/). I'm always open to discussing technology, collaboration, or new opportunities.
