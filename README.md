@@ -4,9 +4,9 @@ I'm a Backend Software Engineer passionate about building scalable and resilient
 
 ### 🛠️ Tech Stack
 
-**Languages:** Go, Node.js  
+**Languages:** Go, JS/TS.  
 **Databases:** SQL (PostgreSQL, MySQL), NoSQL (MongoDB, Redis)  
-**Tools & Platforms:** Git, Docker, Linux
+**Tools & Platforms:** Nodejs, Git, Docker, Linux
 
 ### 🌱 Current Focus
 
