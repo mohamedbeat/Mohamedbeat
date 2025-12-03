@@ -10,7 +10,7 @@ I'm a Backend Software Engineer passionate about building scalable and resilient
 
 ### 🌱 Current Focus
 
-*   Deepening my expertise in **distributed systems** and **high-performance computing**.
+*   Deepening my expertise in **system design**.
 *   Continuously improving my knowledge of software engineering best practices and patterns.
 
 ### 📫 Let's Connect
